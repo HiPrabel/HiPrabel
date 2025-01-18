@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiprabel&label=Profile%20views&color=0e75b6&style=flat" alt="hiprabel" /> </p>
 
-- 📍 I live in Mumbai, India
+- 📍 Mumbai, India
   
 - 📫 How to reach me **prabel397@gmail.com**
 

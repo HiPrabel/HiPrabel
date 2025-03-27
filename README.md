@@ -26,7 +26,7 @@
 
 - 👨‍🎓 I'm a final-year computer engineering undergrad from India.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation in India).
-- 🌱 I’m currently learning **Redux**, and I believe every day is a learning opportunity.
+- 🌱 I believe every day is a learning opportunity.
 - 💬 Ask me about Python, Java, React.js, Express.js, and API development.
 - :wrench: Tools - VSCode, Postman, Git, Figma, npm, Chrome Dev Tool.
 
